@@ -5,7 +5,7 @@ const initialState = {
 	context: 'list',
 	contextTitle: 'Categories',
 	selected: null,
-	categoriesRunningID: 2,
+	categoriesRunningID: 3,
 	categories: [
 		{ name: 'Wishlist', id: 1 },
 		{ name: 'Cities I like', id: 2 },
